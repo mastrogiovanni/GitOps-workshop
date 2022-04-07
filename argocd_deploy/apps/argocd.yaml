@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/REPLACE-ME/GitOps-workshop.git # REPLACE ME!
+    repoURL: https://github.com/mastrogiovanni/GitOps-workshop.git
     targetRevision: HEAD
     path: argocd_deploy
     kustomize:
